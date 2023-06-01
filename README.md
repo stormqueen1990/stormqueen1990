@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋 I'm Mauren!
+
+- 😃 My pronouns are she/her/hers.
+- 💻 I'm a software engineer with experience in Java, Kubernetes, and Go.
+- 🔭 I'm currently an approver for the Portuguese localization of Kubernetes docs.
+- 📫 You can reach me on LinkedIn at linkedin.com/in/maurenberti.
 
 <!--
 **stormqueen1990/stormqueen1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
