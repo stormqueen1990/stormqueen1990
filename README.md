@@ -2,7 +2,7 @@
 
 - 😃 My pronouns are she/her/hers.
 - 💻 I'm a software engineer with experience in Java, Kubernetes, and Go.
-- 🔭 I'm currently an approver for the Portuguese localization of Kubernetes docs.
+- 🔭 I'm currently an approver for the Portuguese localization of Kubernetes docs and a reviewer for Kustomize.
 - 📫 You can reach me on LinkedIn at https://linkedin.com/in/maurenberti.
 
 <!--
